@@ -12,10 +12,10 @@ For the analysis:
 
 We used Python to do data cleaning and preparation on the dataset:  
 
-⦿ Dropped NAs  
-⦿ Customer Distribution per country  
-⦿ Customer Segmentation (based on account balance)  
-⦿ Customers’ loyalty per Country
+- Dropped NAs  
+- Customer Distribution per country  
+- Customer Segmentation (based on account balance)  
+- Customers’ loyalty per Country
 
 Visuals depict the following:
 - Customer Distribution per country 
