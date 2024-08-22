@@ -10,10 +10,11 @@ For this project we had 4 hours and we had to analyze the dataset and create the
 
 For the analysis: 
 
-We used Python to do data cleaning and preparation on the dataset: \n  
-⦿ Dropped NAs \n  
-⦿ Customer Distribution per country \n  
-⦿ Customer Segmentation (based on account balance) \n  
+We used Python to do data cleaning and preparation on the dataset:  
+
+⦿ Dropped NAs  
+⦿ Customer Distribution per country  
+⦿ Customer Segmentation (based on account balance)  
 ⦿ Customers’ loyalty per Country
 
 Visuals depict the following:
