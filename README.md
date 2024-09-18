@@ -21,5 +21,5 @@ Visuals depict the following:
 - Customer Distribution per country 
 - Customer Segmentation into the following categories: platinum, gold, silver, zero (based on account balance)
 - Customers’ loyalty per Country
-- Recommendations in order to increase Customer Retension per Country 
+- Recommendations in order to increase Customer Retention per Country 
 
